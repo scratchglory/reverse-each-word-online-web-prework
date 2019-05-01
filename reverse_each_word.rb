@@ -1,7 +1,7 @@
 require "pry"
 
 def reverse_each_word(sentence1)
-  sentence1.join(" ")
+  sentence1.each do(" ")
   
 
 end
